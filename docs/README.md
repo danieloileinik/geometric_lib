@@ -51,47 +51,63 @@
 
 **Описание**: Эта функция рассчитывает площадь круга.
 
-**Содержание функции**:```python
-        def area(r):
-            return math.pi * r * r
+**Содержание функции**:
+```python
+import math
+def area(r):
+    return math.pi * r * r
+```
+
+            
                         
 ## Функция 2: `def perimeter(r)`:
 
 **Описание**: Эта функция рассчитывает периметр круга.
 
-**Содержание функции**:```python
-    def perimeter(r):
-        return 2 * math.pi * r
-        ```
+**Содержание функции**:
+```python
+import math
+def perimeter(r):
+    return 2 * math.pi * r
+```
+        
 ## Функция 3: `def area(r)`:
 
 **Описание**: Эта функция рассчитывает площадь квадрата.
 
-**Содержание функци**:```python
-    def area(a):
-        return a * a
-        ```
+**Содержание функци**:
+```python
+def area(a):
+    return a * a
+```
+        
 ## Функция 4: `def perimeter(r)`:
 
 **Описание**: Эта функция рассчитывает периметр квадрата.
 
-**Содержание функци**:```python
-    def perimeter(a):
-        return 4*a```
+**Содержание функци**:
+```python
+def perimeter(a):
+    return 4*a
+```
 ## Функция 5: `def area(a, b, c)`:
 
 **Описание**: Эта функция рассчитывает площадь треугольника.
 
-**Содержание функци**:```python
-    def area(a, b, c):
-        return (a + b + c) / 2
-        ```
+**Содержание функци**:
+```python
+def area(a, b, c):
+    return (a + b + c) / 2
+```
+       
 ## Функция 6: `def perimeter(a, b, c)`:
 
 **Описание**: Эта функция рассчитывает периметр треугольника.
 
-**Содержание функци**:```python
-    def perimeter(a, b, c):
-        return a + b + c
-        ```
+**Содержание функци**:
+```python
+def perimeter(a, b, c):
+    return a + b + c
+```
+     
 
